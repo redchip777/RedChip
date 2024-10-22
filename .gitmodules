@@ -1,0 +1,3 @@
+[submodule "galileo-design"]
+	path = galileo-design
+	url = https://github.com/redchip777/galileo-design.git
